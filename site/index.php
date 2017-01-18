@@ -237,8 +237,8 @@ refunded unless the reserved time is rented to another party, in
 which case deposits will be returned less a $25 processing fee.
 <br /><br />
     	Email: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a><br />
-		<a href="reservation-rental-agreement-cottages.pdf">Reservation and Rental Agreement for Cottages</a> (pdf)<br />
-		<a href="reservation-rental-agreement-farmhouse.pdf">Reservation and Rental Agreement for 1890's Farmhouse</a> (pdf)
+		<a target="_blank" href="reservation-rental-agreement-cottages.pdf">Reservation and Rental Agreement for Cottages</a> (pdf)<br />
+		<a target="_blank" href="reservation-rental-agreement-farmhouse.pdf">Reservation and Rental Agreement for 1890's Farmhouse</a> (pdf)
 </td></tr></table>
 
 	<br /><br />
@@ -257,18 +257,18 @@ which case deposits will be returned less a $25 processing fee.
 	<div class="otherinfo">
 		<p class="area-sub"><strong>Area Activities</strong></p>
 		<ul>
-			<li><a href="http://www.maine.gov/cgi-bin/doc/parks/find_one_name.pl?park_id=48">Beaches and hiking trails at Donnell Pond Public Reserved Land</a></li>
-			<li><a href="http://www.hancockpointkayak.com/">Hancock Point Kayak Tours</a></li>
+			<li><a target="_blank" href="http://www.maine.gov/cgi-bin/doc/parks/find_one_name.pl?park_id=48">Beaches and hiking trails at Donnell Pond Public Reserved Land</a></li>
+			<li><a target="_blank" href="http://www.hancockpointkayak.com/">Hancock Point Kayak Tours</a></li>
 		</ul>
 	</div>
 
 	<div class="otherinfo">
 		<p class="area-sub"><strong>Other Links</strong></p>
 		<ul>
-			<li><a href="http://www.acadiamainerentals.com/">Acadia Coastal Rentals</a></li>
-			<li><a href="http://frenchmanbay.org/">Frenchman Bay Conservancy (click on "short hikes")</a></li>
-			<li><a href="http://www.maine.gov/ifw/index.shtml">Maine Department of Inland Fisheries and Wildlife</a></li>
-			<li><a href="http://www.hpvis.org/">Hancock Point Village Improvement Society</a></li>
+			<li><a target="_blank"  href="http://www.acadiamainerentals.com/">Acadia Coastal Rentals</a></li>
+			<li><a target="_blank" href="http://frenchmanbay.org/">Frenchman Bay Conservancy (click on "short hikes")</a></li>
+			<li><a target="_blank" href="http://www.maine.gov/ifw/">Maine Department of Inland Fisheries and Wildlife</a></li>
+			<li><a target="_blank" href="http://www.hpvis.org/">Hancock Point Village Improvement Society</a></li>
 		</ul>
 	</div>
 
@@ -276,22 +276,22 @@ which case deposits will be returned less a $25 processing fee.
 
 	<div class="pointsofinterest">
 		<ul>
-			<li><a href="http://www.acadia.ws/acadia-map.htm">Acadia &amp; Mount Desert Island Map</a></li>
-			<li><a href="http://www.acadia.ws/cadillac-mountain.htm">Cadillac Mountain</a></li>
-			<li><a href="http://www.acadia.ws/carriage-roads.htm">Carriage Roads</a></li>
-			<li><a href="http://www.acadia.ws/park-loop.htm">Park Loop Road</a></li>
-			<li><a href="http://www.acadia.ws/eagle-lake.htm">Eagle Lake</a></li>
-			<li><a href="http://www.acadia.ws/hiking-trails.htm">Hiking Trails on the Island</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/acadia-map.htm">Acadia &amp; Mount Desert Island Map</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/cadillac-mountain.htm">Cadillac Mountain</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/carriage-roads.htm">Carriage Roads</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/park-loop.htm">Park Loop Road</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/eagle-lake.htm">Eagle Lake</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/hiking-trails.htm">Hiking Trails on the Island</a></li>
 		</ul>
 	</div>
 
 	<div class="pointsofinterest">
 		<ul>
-			<li><a href="http://www.acadia.ws/jordan-pond.htm">Jordan Pond &amp; The Bubbles</a></li>
-			<li><a href="http://www.acadia.ws/otter-cliff.htm">Otter Cliff</a></li>
-			<li><a href="http://www.acadia.ws/sand-beach.htm">Sand Beach</a></li>
-			<li><a href="http://www.acadia.ws/schoodic.htm">Schoodic Peninsula</a></li>
-			<li><a href="http://www.acadia.ws/thunder-hole.htm">Thunder Hole</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/jordan-pond.htm">Jordan Pond &amp; The Bubbles</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/otter-cliff.htm">Otter Cliff</a></li>
+			<li><a target="_blank"  href="http://www.acadia.ws/sand-beach.htm">Sand Beach</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/schoodic.htm">Schoodic Peninsula</a></li>
+			<li><a target="_blank" href="http://www.acadia.ws/thunder-hole.htm">Thunder Hole</a></li>
 		</ul>
 	</div>
 
@@ -304,26 +304,10 @@ which case deposits will be returned less a $25 processing fee.
 	</div>-->
 
 	<div id="footer">
-                 <p><?php echo "Website hosted and maintained by <a href='http://www.mainesoft.com'>Maine Software & Internet Solutions</a>";?></p>
+        <p>&copy;<?php echo date('Y'); ?> Crab Tree Neck Cottages </p>
 	</div>
 
 </div>
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=10287803;
-var sc_invisible=1;
-var sc_security="06c6abe8";
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="website
-statistics" href="http://statcounter.com/free-web-stats/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/10287803/0/06c6abe8/1/"
-alt="website statistics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
+
 </body>
 </html>
