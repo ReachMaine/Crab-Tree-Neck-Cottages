@@ -16,6 +16,7 @@ error_reporting(0);
 <head>
 <title>Crabtree Neck Cottages</title>
 <base href="http://www.crabtreeneckcottages.com/" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="description" content="Crabtree Neck Cottage is a rustic pine cottage surrounded by forest and field on Hancock Point in Maine within easy walking distance to the shore. It is located halfway between Acadia National Park on Mount Desert Island and Acadia National Park at Schoodic Point." />
 <meta name="keywords" content="cottage,pine cottage,rental,acadia,schoodic,schoodic peninsula,schoodic point,crabtree,crabtree neck,bar harbor,bar harbor vacation rental,acadia national park,vacation,maine lodging,maine vacation" />
