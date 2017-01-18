@@ -1,0 +1,214 @@
+body {
+	font-family: garamond, arial, times new roman;
+	background: #f1f2db url(../images/bg_color.png);
+}
+
+#page {
+	margin: 0 auto;
+	width: 750px;
+	/*background: url(/images/scenery.png) no-repeat fixed center center;*/
+}
+
+a {
+	color: #176119;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a img {
+	border: 0;
+}
+
+h1 {
+	margin: 0 auto;
+	width: 750px;
+	height: 169px;
+	background: url(../images/header.png) no-repeat top center;
+}
+
+h1 span {
+	display: none;
+}
+
+#casitas {
+	margin: 0 auto;
+	width: 750px;
+	height: 40px;
+	background: url(/images/casitas.png) no-repeat top center;
+}
+
+#subtitle {
+	margin: 0 auto;
+	width: 750px;
+	height: 35px;
+	background: url(/images/subtitle.png) no-repeat top center;
+}
+
+#subtitle .es {
+	background-image: url(/images/subtitle_es.png);
+}
+
+h2 {
+	background: #8dbf89;
+	padding: 2px;
+	text-align: center;
+	font-size: 17px;
+	color: #06210d;
+	clear: both;
+	height: 1%;
+}
+
+h2.links {
+	padding: 7px;
+}
+
+p {
+	margin: 15px 10px;
+}
+
+.clear {
+	clear: both;
+}
+
+.left {
+	float: left;
+	margin: 6px 15px 20px 0;
+	text-align: left;
+}
+
+.right {
+	float: right;
+	margin: 6px 0 20px 15px;
+	text-align: right;
+}
+
+img.left, .left img {
+	border: 1px solid #0a3a18;
+}
+
+img.right, .right img {
+	border: 1px solid #0a3a18;
+}
+
+div.promo {
+	background: #FFFF00;
+	padding: 2px;
+	margin: 8px 0 0 0;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: #06210d;
+	clear: both;
+	height: 1%;
+}
+
+div.language {
+	text-align: right;
+	font-size: 12pt;
+}
+
+div.photos {
+	margin: 10px 60px;
+	height: 564px;
+}
+
+div.morephotos {
+	margin: 10px 60px;
+	height: 338px;
+}
+
+div.photos div, div.morephotos div {
+	float: left;
+	margin: 6px 8px;
+	width: 140px;
+	height: 100px;
+	text-align: center;
+}
+
+div.photos a img, div.morephotos a img {
+	border: 2px solid #1d5c21;
+}
+
+div.photos a:hover img, div.morephotos a:hover img {
+	border-color: #58955c;
+}
+
+div.amenities {
+	width: 50%;
+	float: left;
+}
+
+ul.rates {
+	list-style: none;
+	margin: 0 10px;
+}
+
+ul.rates .season {
+	font-weight: bold;
+}
+
+ul.rates .special {
+	margin: 5px 0 5px 60px;
+}
+
+.tax {
+	font-style: italic;
+}
+
+p.contact {
+	text-align: center;
+}
+
+div.contact {
+	text-align: center;
+}
+
+.area-sub {
+	clear: both;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+div.pointsofinterest, div.otherinfo {
+	width: 50%;
+	float: left;
+}
+
+div.amenities ul li, ul.rates li, div.pointsofinterest ul li, div.otherinfo ul li {
+	margin-left: 30px;
+}
+
+div.amenities ul, div.pointsofinterest ul, div.otherinfo ul {
+	margin: 15px 0;
+}
+
+div.amenities ul li, div.pointsofinterest ul li, div.otherinfo ul li {
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+/*div.scenery {
+	clear: both;
+	text-align: center;
+}*/
+
+/*div.reservedlandbg {
+	clear: both;
+	background: url(/images/scenery.png) no-repeat top center;
+	padding: 162px 0 0 0;
+}*/
+.rental-rates td{ padding:0.4em; background:#fff;}
+
+#footer {
+	clear: both;
+	height: 13px;
+	margin: 6px 0 20px 0;
+	padding-top: 155px;
+	background: url(/images/scenery.png) no-repeat top center;
+	margin: 20px 0;
+	text-align: center;
+}
