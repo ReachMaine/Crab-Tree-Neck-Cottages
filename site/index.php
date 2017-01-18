@@ -60,10 +60,7 @@ error_reporting(0);
 	<h3 style="text-align: center; margin: 15px 0 10px 0;">Cottage Rentals Between Mount Desert Island &amp; Schoodic Peninsula, Hancock, Maine</h3>
 	<!--<h2>Cottage Rentals Between Mount Desert Island &amp; Schoodic Peninsula, Hancock, Maine</h2>-->
 	<h2 class="links"><div style="float: left;">Scroll down for <a href="#rates">RATES</a>&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a></div>
-	<div class="language">&nbsp;<!--<a href="/es.php">Para español haga click aquí</a>--></div></h2>
-
-	<!--<div style="float: left;">Scroll down for <a href="#rates">RATES</a>&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a></div>
-	<div class="language"><a href="/es.html">Para español haga click aquí</a></div>-->
+	<div class="language">&nbsp;</div></h2>
 
 	<?php if(time() < strtotime('November 30th 2012')) {?>
 	<?php /*<div class="promo">Farmhouse &#36;150 off for couples, &#36;75 off for families 5 persons or fewer, Weeks of August 28 and September 4, e-mail or call for details.</div>*/ ?>
@@ -218,12 +215,12 @@ overlooks the pasture and blueberry field. They are within easy walking distance
        <h3 align="center">2016 Rate information for Cottages</h3><br /><br />
 	<table style="background-color:#FFF;"><tr><td>
     Blackberry and Blueberry Cottages, full weeks, Saturday to Saturday in high season. Weekly prices range from <strong>$495</strong> in early May to <strong>$1195</strong> in high Summer and then range down to <strong>$615</strong> in October. Partial weeks and Holidays available in Spring and Fall. Nightly prices <strong>range from $71 to $169</strong>. Please click the link below for detailed prices, or call, <strong>207-214-8730</strong>. <br /><br />
-    <a href="cottages.pdf">Detailed Price List for Blackberry and Blueberry Cottages (pdf)</a></td></tr></table><br />
+    <a target="_blank" href="cottages.pdf">Detailed Price List for Blackberry and Blueberry Cottages (pdf)</a></td></tr></table><br />
     <br />
     <h3 align="center">2016 Rate information for 1890's Farmhouse</h3><br /><br />
     <table style="background-color:#FFF;"><tr><td>
     Farmhouse, full weeks, Sunday to Sunday in high season. Weekly prices range from <strong>$550</strong> in early May to <strong>$1295</strong> in high Summer and then range down to <strong>$715</strong> in in late September and October. Partial weeks and Holidays available in Spring and Fall. Nightly prices <strong>range from $79 to $189</strong>. Please click the link below for detailed prices, or call, <strong>207-214-8730</strong>. <br /><br />
-    <a href="farmhouse.pdf">Detailed Price List for 1890's Farmhouse (pdf)</a></td></tr></table><br />
+    <a target="_blank" href="farmhouse.pdf">Detailed Price List for 1890's Farmhouse (pdf)</a></td></tr></table><br />
    <br />
 <h3 align="center">Deposit Information:</h3><br /><br />
 <table style="background-color:#FFF;"><tr><td>A deposit of half
@@ -308,6 +305,5 @@ which case deposits will be returned less a $25 processing fee.
 	</div>
 
 </div>
-
 </body>
 </html>
