@@ -1,12 +1,12 @@
 <?php
 /*
 *
-* 
-* 
+*
+*
 * CHANGE SPANISH VERSION (es.php) OF SITE AS WELL!!!
-* 
-* 
-* 
+*
+*
+*
 */
 error_reporting(0);
 ?>
@@ -15,7 +15,7 @@ error_reporting(0);
 <html>
 <head>
 <title>Crabtree Neck Cottages</title>
-<base href="http://www.crabtreeneck.com/" />
+<base href="http://www.crabtreeneckcottages.com/" />
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="description" content="Crabtree Neck Cottage is a rustic pine cottage surrounded by forest and field on Hancock Point in Maine within easy walking distance to the shore. It is located halfway between Acadia National Park on Mount Desert Island and Acadia National Park at Schoodic Point." />
 <meta name="keywords" content="cottage,pine cottage,rental,acadia,schoodic,schoodic peninsula,schoodic point,crabtree,crabtree neck,bar harbor,bar harbor vacation rental,acadia national park,vacation,maine lodging,maine vacation" />
@@ -56,39 +56,39 @@ error_reporting(0);
 <div id="page">
 	<h1><span>Crabtree Neck Cottages and Farmhouse</span></h1>
 	<!--<div id="subtitle"></div>-->
-	
+
 	<h3 style="text-align: center; margin: 15px 0 10px 0;">Cottage Rentals Between Mount Desert Island &amp; Schoodic Peninsula, Hancock, Maine</h3>
 	<!--<h2>Cottage Rentals Between Mount Desert Island &amp; Schoodic Peninsula, Hancock, Maine</h2>-->
 	<h2 class="links"><div style="float: left;">Scroll down for <a href="#rates">RATES</a>&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a></div>
 	<div class="language">&nbsp;<!--<a href="/es.php">Para español haga click aquí</a>--></div></h2>
-	
+
 	<!--<div style="float: left;">Scroll down for <a href="#rates">RATES</a>&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a></div>
 	<div class="language"><a href="/es.html">Para español haga click aquí</a></div>-->
-	
+
 	<?php if(time() < strtotime('November 30th 2012')) {?>
 	<?php /*<div class="promo">Farmhouse &#36;150 off for couples, &#36;75 off for families 5 persons or fewer, Weeks of August 28 and September 4, e-mail or call for details.</div>*/ ?>
 	<!--<div class="promo">Fall Special, &#36;475 through November</div>-->
 	<?php }?>
-	
+
 	<div class="rentals">
-	
+
 	<p>
-<div class="left"><img src="images/photos/text/Blackberry-Cottage-2014-smaller-image-e1420414692439.jpg" alt="" /><br />Blackberry Cottage</div>Our cozy, rustic pine cottages and farmhouse are surrounded by forest and field on Hancock Point. <strong>Blackberry Cottage</strong> is tucked under the trees and <strong>Blueberry Cottage</strong> 
-overlooks the pasture and blueberry field. They are within easy walking distance of the shore. 
+<div class="left"><img src="images/photos/text/Blackberry-Cottage-2014-smaller-image-e1420414692439.jpg" alt="" /><br />Blackberry Cottage</div>Our cozy, rustic pine cottages and farmhouse are surrounded by forest and field on Hancock Point. <strong>Blackberry Cottage</strong> is tucked under the trees and <strong>Blueberry Cottage</strong>
+overlooks the pasture and blueberry field. They are within easy walking distance of the shore.
 <br/><br/>We are located in Hancock, Maine, halfway between Acadia National Park on Mount Desert Island and Acadia National Park at Schoodic Point. The secluded location is close to the village of Hancock in an excellent area for a vacation with hiking biking, kayaking and berry picking. Step out the door and take a peaceful, ten-minute walk to Jellison Cove on Frenchman's Bay or explore the nearby woods and fields.<br /><br /><div style="color: #003300; text-align: right;">Scroll down to see more <a href="#pictures">PICTURES</a></div></p>
 
 
 
 	<p class="clear"><div class="right"><img src="images/photos/text/Blueberry-Cottage-2014-cropped-e1420415009459.jpg" alt="" /><br />Blueberry Cottage</div>The cottages are new, fully furnished and provided with a simple and complete kitchen, a snug combination living dining area, two bedrooms downstairs, one with a double bed and one with two bunks, plus a large sleeping loft upstairs with a queen size bed, a twin size bed and a TV for watching movies.
 <br/><br/> Both cottages sleep up to seven people, have large picnic tables on the covered porches, and are ideal for couples or families. A crib is available upon request. The cottages are equipped with gas grills on the porch.</p>
-	
+
 	<p class="clear">We will supply a radio, a television and DVD player for viewing movies, alarm clock, all bed linens and towels, gas grill, washer and dryer, ironing board and iron. The cottages are heated with a fireplace wood stove and firewood is provided.</p>
-	
+
 	<?php if(time() < strtotime('November 30th 2012')) {?>
 	<!--<div class="promo">Fall Special, &#36;475 through November</div>-->
 	<?php }?>
-	
-	<p class="clear"><div class="left"><img src="images/farmhouse-cottage.jpg" width="235" alt="" /><br />Farmhouse</div>For a larger accommodation, this charming 1890's farmhouse is on the same property as, but separate from, the Cottages. Situated on a quiet country road, it borders on the Crabtree Neck Land Trust and Community Gardens on Hancock Point. 
+
+	<p class="clear"><div class="left"><img src="images/farmhouse-cottage.jpg" width="235" alt="" /><br />Farmhouse</div>For a larger accommodation, this charming 1890's farmhouse is on the same property as, but separate from, the Cottages. Situated on a quiet country road, it borders on the Crabtree Neck Land Trust and Community Gardens on Hancock Point.
 <br/><br/>The house has 3 bedrooms, one with a back stairway, and two bathrooms. It sleeps 7 to 10 people. The farmhouse kitchen is fully equipped and has a wood stove. The renovated dining room in the old summer kitchen opens on to a large flower filled deck and huge back yard. There are fields and woods all around. Wi-Fi available.</p>
 
 	<p class="clear"><div class="right"><img src="images/photos/text/15.jpg" alt="" /><br />Loft, Blackberry Cottage</div>Enjoy the beauty of coastal Maine. Bike to the Frenchman Bay Nature Conservancy where you can hike, kayak, or picnic. Take a ride around the point and see the wonderful old historic houses, visit the library and Carter's Beach, all here on the point.</p>
@@ -96,15 +96,15 @@ overlooks the pasture and blueberry field. They are within easy walking distance
 	<p>Drive to nearby Acadia National Park on Mount Desert Island (40 minutes) or to Acadia National Park on Schoodic point (about 25 minutes in the opposite direction) and enjoy the quintessential Maine coastal villages along the way. Shop or go to the movies in Bar Harbor (45 minutes) or Ellsworth (20 minutes).</p>
 
 	<p>The little town of Hancock, Maine boasts some fabulous fine dining restaurants (Crocker House, Le Domaine), and several more modest restaurants with great local and ethnic offerings. Or just eat in on the cottage's covered porch and enjoy a peaceful evening watching the sun set and listening to bird song.</p>
-	
+
 	<p>Pick Maine blueberries and blackberries right outside your door in July and August. Bike rentals, kayak/canoe rentals ("see other info." below), and guided tours are available nearby. For swimming, boating, hiking, and mountain climbing, visit Maine's Public Reserve lands on pristine Donnell and Flanders ponds, and explore the Frenchman Bay Conservancy (see links at bottom). Tennis courts and sailing lessons are available not far from the cottage, by prior arrangement. A public beach, historic houses, and a quaint summer library are within easy biking distance.</p>
 
 	</div>
-	
+
 	<a name="pictures"></a>
 	<h2>Pictures</h2>
 	<p style="text-align: center;">Click photos to enlarge</p>
-	
+
 	<div class="photos">
 	<?php
 	$order = array(4,6,2,11,12,13,16,1,15,24,17,18,25,19,22,41,40,43,44,45,46,50,51,47,48,42,49,8,9,10,38);
@@ -166,13 +166,13 @@ overlooks the pasture and blueberry field. They are within easy walking distance
 	?>
 		<div><a href="images/photos/<?=$i?>.jpg" title="<?=htmlspecialchars($captions[$i_nopad])?>" class="thickbox" rel="gallery-photos"><img src="images/photos/thumbs/<?=$i?>.jpg" alt="" /></a></div>
 	<?php
-	}	
+	}
 	?>
 	</div>
-	
+
 	<h2>More Pictures, Spring and Fall</h2>
 	<p style="text-align: center;">Click photos to enlarge</p>
-	
+
 	<div class="morephotos">
 	<?php
 	//$order = array(30,26,27,28,29,31,32,33,34,35,36,37);
@@ -183,12 +183,12 @@ overlooks the pasture and blueberry field. They are within easy walking distance
 	?>
 		<div><a href="images/photos/<?=$i?>.jpg" title="<?=htmlspecialchars($captions[$i_nopad])?>" class="thickbox" rel="gallery-photos"><img src="images/photos/thumbs/<?=$i?>.jpg" alt="" /></a></div>
 	<?php
-	}	
+	}
 	?>
 	</div>
 
 	<h2>Amenities</h2>
-	
+
 	<div class="amenities">
 		<ul>
 			<li>Radio, VCR, DVD and T.V. monitor (no cable)</li>
@@ -200,7 +200,7 @@ overlooks the pasture and blueberry field. They are within easy walking distance
 			<li>Books, movies and games</li>
 		</ul>
 	</div>
-	
+
 	<div class="amenities">
 		<ul>
 			<li>Additional outdoor picnic table</li>
@@ -212,7 +212,7 @@ overlooks the pasture and blueberry field. They are within easy walking distance
 			<li>1890's Farmhouse has internet connection</li>
 		</ul>
 	</div>
-	
+
 	<h2>Rates</h2>
 	<a name="rates"></a><br />
        <h3 align="center">2016 Rate information for Cottages</h3><br /><br />
@@ -240,20 +240,20 @@ which case deposits will be returned less a $25 processing fee.
 		<a href="reservation-rental-agreement-cottages.pdf">Reservation and Rental Agreement for Cottages</a> (pdf)<br />
 		<a href="reservation-rental-agreement-farmhouse.pdf">Reservation and Rental Agreement for 1890's Farmhouse</a> (pdf)
 </td></tr></table>
-	
+
 	<br /><br />
-    
+
 	<h2>For Cottage Reservation and Rentals</h2>
-	
+
 	<p class="contact">Call: (207) 422-3962, <!--(207) 214-8730 (cell phone), -->or E-mail: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a> for information and availability.</p>
 
 	<p class="contact">Crabtree Neck Cottages<br />
 	585 East Side Road, Hancock, ME 04640</p>
-	
+
 	<div class="contact"><img src="images/mainecoast.png" title="Maine Coast Map" alt="" /></div>
-	
+
 	<h2>Other Area Information</h2>
-	
+
 	<div class="otherinfo">
 		<p class="area-sub"><strong>Area Activities</strong></p>
 		<ul>
@@ -261,7 +261,7 @@ which case deposits will be returned less a $25 processing fee.
 			<li><a href="http://www.hancockpointkayak.com/">Hancock Point Kayak Tours</a></li>
 		</ul>
 	</div>
-	
+
 	<div class="otherinfo">
 		<p class="area-sub"><strong>Other Links</strong></p>
 		<ul>
@@ -271,9 +271,9 @@ which case deposits will be returned less a $25 processing fee.
 			<li><a href="http://www.hpvis.org/">Hancock Point Village Improvement Society</a></li>
 		</ul>
 	</div>
-	
+
 	<h2>Acadia National Park - Points of Interest</h2>
-	
+
 	<div class="pointsofinterest">
 		<ul>
 			<li><a href="http://www.acadia.ws/acadia-map.htm">Acadia &amp; Mount Desert Island Map</a></li>
@@ -284,7 +284,7 @@ which case deposits will be returned less a $25 processing fee.
 			<li><a href="http://www.acadia.ws/hiking-trails.htm">Hiking Trails on the Island</a></li>
 		</ul>
 	</div>
-	
+
 	<div class="pointsofinterest">
 		<ul>
 			<li><a href="http://www.acadia.ws/jordan-pond.htm">Jordan Pond &amp; The Bubbles</a></li>
@@ -294,25 +294,25 @@ which case deposits will be returned less a $25 processing fee.
 			<li><a href="http://www.acadia.ws/thunder-hole.htm">Thunder Hole</a></li>
 		</ul>
 	</div>
-	
+
 	<div class="clear" style="text-align: center">
 		E-mail Suzanne at: <a href="mailto:suzanne.becque@gmail.com">suzanne.becque@gmail.com</a>
 	</div>
-	
+
 	<!--<div class="scenery">
 		<img src="images/scenery.png" alt="" />
 	</div>-->
-	
+
 	<div id="footer">
                  <p><?php echo "Website hosted and maintained by <a href='http://www.mainesoft.com'>Maine Software & Internet Solutions</a>";?></p>
 	</div>
-	
+
 </div>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=10287803; 
-var sc_invisible=1; 
-var sc_security="06c6abe8"; 
+var sc_project=10287803;
+var sc_invisible=1;
+var sc_security="06c6abe8";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +
